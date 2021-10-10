@@ -1,2 +1,2 @@
 # Discord-Bot
-jeg har tænkt mig at lave en discord bot der skal kunne tilbyde folk på serveren salt når de kommer ind, og når de nævner visse "keywords"
+min første plan var at lave botten i python med et library der hedder discord.py, jeg fandt så ud af at det blev fjenet for en månede siden, så derfor prøver jeg at lave det i c# istdet for og bruge et library der hedder discord.net.
